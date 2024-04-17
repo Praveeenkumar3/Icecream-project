@@ -1,0 +1,60 @@
+.mala {
+    background-size: cover;
+    background-repeat: no-repeat;   
+}
+.para{
+    background-color: white;
+    text-align: center;
+    padding: 5 px;
+}
+.para p{
+    
+    height: 150px;
+    padding-top: 30px;
+    font-size: 20px;
+    /* width: 900px; */
+    /* align-items: center; */
+    /* margin-left: 230px; */
+
+}
+.col-sm-12:hover{
+    transform: scale(0.9);
+}
+
+
+/* navbar */
+
+.nav-item:hover{
+    
+    /* background-color: white; */
+    border-radius: 20px;
+    height: 30px;
+    
+}
+.nav-link:hover{
+    color: rgb(7, 17, 7);
+}
+.offcanvas-body ul li a:hover{
+    color: rgb(128, 201, 128);
+    box-shadow: 5px whitesmoke;
+}
+ ul li a{
+    text-decoration: none;
+    color: white;
+    align-items: center;
+    padding: 5px;
+    text-align: center;
+
+
+}
+nav{
+    background-color: rgb(63, 61, 61);
+}
+
+ .row :hover{
+    transform: scale(0.9);
+    /* background-color: black; */
+}
+ /* .col  :hover{
+background-color: brown;
+}  */
